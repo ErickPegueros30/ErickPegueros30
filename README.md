@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </b></h1>
+<h1 align= "center"><b>Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> </b></h1>
 
 I'm Erick Jaimes, a Computer Systems Engineering student at the Technological Institute of Mexico, Querétaro campus.
 
@@ -16,9 +16,15 @@ I'm Erick Jaimes, a Computer Systems Engineering student at the Technological In
 - 🛠️ Technologies: [List of technologies you are familiar with, such as HTML, CSS, Git, etc.].
 - 📚 In the process of mastering [name of the technology or skill you are currently learning].
 
-### Connect with Me!
-
 <p align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ErickPegueros30&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPegueros30&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+</p>
+
+
+<h3 align= "right"><b>Connect with Me! </b></h3>
+<p align="right">
   <a href="https://www.linkedin.com/in/erick-jaimes-pegueros-991a5b281/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
@@ -34,10 +40,21 @@ I'm Erick Jaimes, a Computer Systems Engineering student at the Technological In
   <a href="mailto:erickprimaria3b@hotmail.com" alt="Hotmail">
     <img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
+</p>
+
+<h3 align="left"><b>Social Networks! </b></h3>
+<p align="left">
   <a href="https://instagram.com/erick_pegueros30" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</p>
+    <a href="https://twitter.com/mohamed_abusrea">
+        <img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/originalphreak" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+     </p>
+
 
 
 ### Gaming:
@@ -51,12 +68,5 @@ I'm Erick Jaimes, a Computer Systems Engineering student at the Technological In
   <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 </div>
 <br>
-
-<p align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ErickPegueros30&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPegueros30&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
-</p>
-
 
 Thanks for visiting my profile! I look forward to learning and collaborating with the amazing GitHub community.
