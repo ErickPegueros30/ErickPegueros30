@@ -2,6 +2,8 @@
 
 I'm Erick Jaimes, a Computer Systems Engineering student at the Technological Institute of Mexico, Querétaro campus.
 
+![Black And Gold Elegant Business Name Facebook Cover](https://github.com/ErickPegueros30/ErickPegueros30/assets/142937748/df07e0fa-bd3c-4b9e-a3cc-dc8760976bdf)
+
 ### About Me
 <ul>
     <li>🎓 Currently in my sixth semester of the degree program.</li>
@@ -12,16 +14,29 @@ I'm Erick Jaimes, a Computer Systems Engineering student at the Technological In
 
 
 ### Learning
-- 💻 Languages: [List of languages you know, such as Java, Python, etc.].
-- 🛠️ Technologies: [List of technologies you are familiar with, such as HTML, CSS, Git, etc.].
-- 📚 In the process of mastering [name of the technology or skill you are currently learning].
+
+<h4> 💻 Languages: </h4>
+<p aling= "right"> 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+</p>
+
+<h4> 🛠️ Technologies: </h4>
+<p aling= "right"> 
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+</p>
 
 <p align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ErickPegueros30&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPegueros30&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
-
 
 <h3 align= "right"><b>Connect with Me! </b></h3>
 <p align="right">
@@ -54,8 +69,6 @@ I'm Erick Jaimes, a Computer Systems Engineering student at the Technological In
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
     </a>
      </p>
-
-
 
 ### Gaming:
 <div display="flex">
