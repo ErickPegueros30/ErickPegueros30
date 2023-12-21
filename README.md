@@ -62,10 +62,10 @@ I'm Erick Jaimes, a Computer Systems Engineering student at the Technological In
   <a href="https://instagram.com/erick_pegueros30" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-    <a href="https://twitter.com/mohamed_abusrea">
+    <a href="https://twitter.com/ErickPegueros">
         <img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://www.facebook.com/originalphreak" target="_blank">
+    <a href="https://www.facebook.com/erick.peguerosj/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
     </a>
      </p>
